@@ -1,0 +1,30 @@
+<html>
+    <body style="font-family:sans-serif;">
+        <header>
+    <img src="https://i.ibb.co/6n3RCSG/storm-icon-in-black-and-white-755164-15733.png" >
+            
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">новини</a>
+            <a href="">О нас</a>
+        </header>
+
+
+    <main>
+    <h1 style="text-align:center;">Thunder13 Production</h1>
+    <p style="text-align:center;font-size: 20px;">ми  нова Інді студія Thunder13 Production</p>
+    <p class="d12" style="text-align:right;font-size:15px;b:blue;"><img src="https://i.ibb.co/m4hwkSn/image123.png" > Привіт ми нова студія інди ігрок thunder13 і ми робимо нові ігри для вас наш перший проект half lie I вже доступен для вас! ви думаете ми про вас забули у 02.12.2023 до 30.12.2023 будуть скідки у стімі 40%!!!</p>
+
+ <p class="d13" style="text-align:left;font-size:15px;b:blue;"> <img src="https://i.ibb.co/T4gRJHw/image.png;text-align:right">Усі знають нашу першу гру Half lie I ми дуже долго работали і створили Другу частину нашої гри Half lie II І ми її Анонсуємо Вона вийде вже 05.5.2024 і ми вам її рекомендуємо Бо там Нова графика і Єфекти бо він на новому двіжку Unreal poop 5 Який краще оптимізован і має нові технології! ви можете Зробити Предзаказ!!!</p>
+
+      <a style="text-align:center;" href="">Зробити Предзаказ</a>
+        </main>
+
+
+   <footer style="background:blue; padding:15px;">
+   <p>главний дім компаніі Квитнева 33</p>
+   <p>номер для звьязку +380123123123</p>
+
+
+       </footer>
+   </body>
+</html>
+
